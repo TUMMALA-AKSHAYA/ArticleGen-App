@@ -52,3 +52,12 @@ ArticleGen-App/
    git clone https://github.com/TUMMALA-AKSHAYA/ArticleGen-App.git
    cd ArticleGen-App
 
+2.Install dependencies
+pip install -r requirements.txt
+
+3.Run the app
+python main.py
+
+4.Open in browser
+Go to http://localhost:5000
+
